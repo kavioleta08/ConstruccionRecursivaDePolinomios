@@ -229,7 +229,7 @@
         "  fx = poly_polinomio1[i]\n",
         "  dx = Derivative(fx, x).doit()\n",
         "  dx\n",
-        "  simplify(dx)\n",
+        "  ",
         "  print(dx)\n"
       ],
       "execution_count": 35,
